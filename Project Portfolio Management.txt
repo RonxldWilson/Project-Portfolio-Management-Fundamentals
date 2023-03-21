@@ -5,3 +5,14 @@ management and IT development capabilities together to provide a team-centric
 approach to program and project govemance.
 
 
+The Various segments of the PPM are:
+
+1. Demand Management
+2. Project Management
+3. Resource Management
+4. Program & Portfolio Management
+
+There are many roles available in PPM each with a unique work allocation. Refer to the Docx
+
+############################# Demand Management #########################################
+
