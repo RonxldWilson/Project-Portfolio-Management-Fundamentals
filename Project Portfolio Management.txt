@@ -1,0 +1,7 @@
+PROJECT PORTFOLO MANAGEMENT
+
+ServiceNow's Project Portfolio Management applications combines project portfolio
+management and IT development capabilities together to provide a team-centric
+approach to program and project govemance.
+
+
